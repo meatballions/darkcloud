@@ -11,7 +11,7 @@
 
 //Here is the pin you connect your NeoPixel Control to.  Designing for Adafruit Trinket controller
 
-      #define PIN 1
+      #define PIN 4
 
 // Parameter 1 = number of pixels in strip
 // Parameter 2 = pin number (most are valid)
